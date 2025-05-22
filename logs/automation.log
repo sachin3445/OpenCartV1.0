@@ -1,0 +1,49 @@
+12:43:31.875 [TestNG-tests-3] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+12:43:32.809 [TestNG-tests-3] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+12:43:43.517 [TestNG-tests-2] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+12:43:43.680 [TestNG-tests-2] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+12:43:44.789 [TestNG-tests-2] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+12:43:44.792 [TestNG-tests-2] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+12:43:53.891 [TestNG-tests-3] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+12:43:54.178 [TestNG-tests-3] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+06:10:54.991 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\master.xml"
+06:11:05.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:11:05.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+06:11:06.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:11:06.431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+06:12:13.657 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+06:12:18.655 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+06:12:18.827 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+06:12:19.258 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+06:12:19.286 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+06:12:21.170 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+06:12:21.225 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+06:12:23.692 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+06:12:23.693 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+06:12:23.824 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+06:12:24.448 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+06:12:25.537 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+07:38:39.870 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+07:38:47.725 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+07:38:47.888 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+07:38:48.340 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+07:38:48.370 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+07:38:50.387 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+07:38:50.454 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+07:38:53.146 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+07:38:53.147 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+07:38:53.276 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+07:38:53.874 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+07:38:54.705 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+07:44:47.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+07:44:52.305 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+07:44:52.469 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+07:44:52.916 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+07:44:52.920 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+07:44:54.765 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+07:44:54.829 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+07:44:57.417 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+07:44:57.418 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+07:44:57.549 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+07:44:58.176 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+07:44:58.971 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****

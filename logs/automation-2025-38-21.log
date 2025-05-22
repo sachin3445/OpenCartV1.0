@@ -1,0 +1,83 @@
+08:06:55.414 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+08:06:58.438 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+08:06:58.439 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+08:06:58.559 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+08:06:59.194 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+08:07:00.065 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+08:07:44.732 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+08:07:45.227 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+08:11:53.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+08:11:53.702 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+08:20:38.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+08:20:39.081 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+08:26:36.632 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+08:26:37.154 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+08:33:24.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+08:33:24.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+08:43:03.140 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+08:43:03.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+09:46:40.853 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+09:46:41.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+09:58:11.005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+09:58:11.464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:11:57.263 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:11:57.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:16:25.124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:16:25.642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:19:23.966 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:19:24.449 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:20:40.775 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:20:41.236 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:20:44.850 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:20:45.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:21:37.502 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:21:38.016 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:24:31.422 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:24:31.924 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:26:23.195 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:26:23.689 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:30:47.961 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:30:48.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:37:28.172 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:37:28.667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:37:34.323 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+10:38:38.011 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:38:38.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+

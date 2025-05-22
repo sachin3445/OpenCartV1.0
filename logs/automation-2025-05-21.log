@@ -1,0 +1,63 @@
+10:38:43.391 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+10:39:34.028 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:39:34.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:39:39.675 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+10:39:39.860 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+10:39:40.311 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+10:39:40.337 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+10:39:42.127 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+10:39:42.240 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+10:39:46.590 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+10:39:46.591 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+10:39:46.738 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+10:39:47.395 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+10:39:48.615 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+10:40:35.137 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:40:35.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:40:44.166 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+10:40:44.393 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+10:40:44.897 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+10:40:44.901 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+10:40:46.529 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+10:40:46.599 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+10:40:50.150 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+10:40:50.151 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+10:40:50.280 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+10:40:50.840 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+10:40:51.623 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+10:42:02.021 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:42:02.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:42:07.479 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+10:42:07.662 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+10:42:08.106 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+10:42:08.111 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+10:42:09.626 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+10:42:09.706 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+10:42:18.449 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+10:42:18.451 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+10:42:18.582 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+10:42:19.159 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+10:42:19.954 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+10:46:39.886 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:46:40.364 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:47:42.448 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:47:42.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:48:06.618 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:48:07.083 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+10:50:08.645 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
+10:50:09.083 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\grouping.xml
+
+11:05:23.006 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipce Workspace\OpenCartV1.0\grouping.xml"
