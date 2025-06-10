@@ -1,0 +1,69 @@
+19:33:09.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\master.xml
+
+19:33:15.105 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+19:33:15.269 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+19:33:15.708 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+19:33:15.739 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+19:33:17.479 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+19:33:17.541 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+19:33:21.543 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+19:33:21.544 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+19:33:21.685 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+19:33:22.322 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+19:33:23.405 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+19:33:31.924 [main] INFO  testCase.TC0004_searchProduct - ***** Starting TestCase TC0004_searchProduct *****
+19:33:31.925 [main] INFO  testCase.TC0004_searchProduct - Click on my account....
+19:33:32.072 [main] INFO  testCase.TC0004_searchProduct - Click on my login....
+19:33:32.389 [main] INFO  testCase.TC0004_searchProduct - Enter user details email & Password....
+19:33:32.711 [main] INFO  testCase.TC0004_searchProduct - Click on login button....
+19:33:32.816 [main] INFO  testCase.TC0004_searchProduct - Enter the Product name for search... 
+19:33:33.613 [main] INFO  testCase.TC0004_searchProduct - Click on Search button....
+19:33:33.958 [main] INFO  testCase.TC0004_searchProduct - Validate the product found...
+19:33:37.065 [main] ERROR testCase.TC0004_searchProduct - No product found...!
+19:33:37.065 [main] INFO  testCase.TC0004_searchProduct - ***** Finish TestCase TestCase TC0004_searchProduct *****
+19:34:52.371 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\master.xml
+
+19:34:57.459 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+19:34:57.610 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+19:34:58.070 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+19:34:58.078 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+19:34:59.720 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+19:34:59.782 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+19:35:05.244 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+19:35:05.244 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+19:35:05.383 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+19:35:06.400 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+19:35:08.703 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+19:35:17.115 [main] INFO  testCase.TC0004_searchProduct - ***** Starting TestCase TC0004_searchProduct *****
+19:35:17.116 [main] INFO  testCase.TC0004_searchProduct - Click on my account....
+19:35:17.286 [main] INFO  testCase.TC0004_searchProduct - Click on my login....
+19:35:17.615 [main] INFO  testCase.TC0004_searchProduct - Enter user details email & Password....
+19:35:17.957 [main] INFO  testCase.TC0004_searchProduct - Click on login button....
+19:35:19.005 [main] INFO  testCase.TC0004_searchProduct - Enter the Product name for search... 
+19:35:19.113 [main] INFO  testCase.TC0004_searchProduct - Click on Search button....
+19:35:19.515 [main] INFO  testCase.TC0004_searchProduct - Validate the product found...
+19:35:22.600 [main] INFO  testCase.TC0004_searchProduct - Product found.....!
+19:35:22.601 [main] INFO  testCase.TC0004_searchProduct - ***** Finish TestCase TestCase TC0004_searchProduct *****
+10:42:56.570 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+10:44:21.865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+11:03:30.910 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+11:29:55.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+11:59:07.565 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+12:03:00.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+12:06:35.740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+

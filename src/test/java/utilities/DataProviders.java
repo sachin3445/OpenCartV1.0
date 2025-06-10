@@ -17,7 +17,7 @@ public class DataProviders {
 		int totalcols = xlxuti.getCellCount("sheet1", 1);
 		
 		//creating two dimensional array to stored data
-		String logindata[][] =new String [totalrows][totalrows];
+		String logindata[][] =new String [totalrows][totalcols];
 		
 		//Reading data from two dimensional array
 		for(int i =1; i<=totalrows; i++)

@@ -1,0 +1,60 @@
+12:39:31.591 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:31.710 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:32.283 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+13:50:30.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\master.xml
+
+13:50:39.338 [main] INFO  testCase.TC0001_accountRegistration - ***** Starting TestCase TC0001_accountRegistration *****
+13:50:39.598 [main] INFO  testCase.TC0001_accountRegistration - Clicked on My Account...!
+13:50:40.028 [main] INFO  testCase.TC0001_accountRegistration - Clicked on Registred...!
+13:50:40.090 [main] INFO  testCase.TC0001_accountRegistration - Providing customer Details...!
+13:50:41.909 [main] INFO  testCase.TC0001_accountRegistration - Validating message...!
+13:50:41.976 [main] INFO  testCase.TC0001_accountRegistration - ***** Finish TestCase TC0001_accountRegistration *****
+13:50:51.037 [main] INFO  testCase.TC0002_accountLogin - ***** Starting TC0002_accountLogin *****
+13:50:51.039 [main] INFO  testCase.TC0002_accountLogin - Clicked on My Account...!
+13:50:51.190 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login Link...!
+13:50:51.841 [main] INFO  testCase.TC0002_accountLogin - Clicked on Login...!
+13:50:52.787 [main] INFO  testCase.TC0002_accountLogin - ***** Finish TestCase TC0002_accountLogin *****
+13:50:56.719 [main] INFO  testCase.TC0004_searchProduct - ***** Starting TestCase TC0004_searchProduct *****
+13:50:56.720 [main] INFO  testCase.TC0004_searchProduct - Click on my account....
+13:50:56.885 [main] INFO  testCase.TC0004_searchProduct - Click on my login....
+13:50:57.222 [main] INFO  testCase.TC0004_searchProduct - Enter user details email & Password....
+13:50:57.576 [main] INFO  testCase.TC0004_searchProduct - Click on login button....
+13:50:58.493 [main] INFO  testCase.TC0004_searchProduct - Enter the Product name for search... 
+13:50:58.693 [main] INFO  testCase.TC0004_searchProduct - Click on Search button....
+13:50:59.272 [main] INFO  testCase.TC0004_searchProduct - Validate the product found...
+13:51:02.374 [main] INFO  testCase.TC0004_searchProduct - Product found.....!
+13:51:02.374 [main] INFO  testCase.TC0004_searchProduct - ***** Finish TestCase TestCase TC0004_searchProduct *****
+13:51:25.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\ddt_test.xml
+
+13:51:34.880 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Started..*****
+13:51:34.916 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+13:51:35.078 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+13:51:35.998 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+13:51:36.986 [main] INFO  testCase.TC0003_LoginDDT - Validating user details...!
+13:51:40.515 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Finish *****
+13:51:40.534 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Started..*****
+13:51:40.535 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+13:51:40.664 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+13:51:41.468 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+13:51:42.320 [main] INFO  testCase.TC0003_LoginDDT - Validating user details...!
+13:51:45.590 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Started..*****
+13:51:45.592 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+13:51:45.808 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+13:51:46.392 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+13:51:47.055 [main] INFO  testCase.TC0003_LoginDDT - Validating user details...!
+13:51:50.232 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Started..*****
+13:51:50.233 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+13:51:50.341 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+13:51:50.906 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+13:51:51.477 [main] INFO  testCase.TC0003_LoginDDT - Validating user details...!
+13:51:54.703 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Started..*****
+13:51:54.704 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+13:51:54.793 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+13:51:55.381 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+13:51:55.488 [main] INFO  testCase.TC0003_LoginDDT - Validating user details...!
+13:51:59.069 [main] INFO  testCase.TC0003_LoginDDT - ***** TC0003_LoginDDT_accountLogin Started..*****
+13:51:59.070 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+13:51:59.163 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+13:51:59.652 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!

@@ -36,11 +36,10 @@ public class ExcelUtility {
 		fi=new FileInputStream(path);
 		workbook = new XSSFWorkbook(fi);
 		sheet = workbook.getSheet(sheetName);
-		int rowCount =sheet.getLastRowNum();
+		int rowcount =sheet.getLastRowNum();
 		workbook.close();
 		fi.close();
-		return rowCount;
-		
+		return rowcount;
 	}
 	
 	public int getCellCount(String sheetName, int rownum) throws IOException 
@@ -48,10 +47,11 @@ public class ExcelUtility {
 		fi=new FileInputStream(path);
 		workbook = new XSSFWorkbook(fi);
 		sheet = workbook.getSheet(sheetName);
-		int cellCount =row.getLastCellNum();
+		row=sheet.getRow(rownum);
+		int cellcount =row.getLastCellNum();
 		workbook.close();
 		fi.close();
-		return cellCount;
+		return cellcount;
 		
 	}
 	

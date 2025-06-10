@@ -1,0 +1,64 @@
+12:32:39.783 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:02.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+12:35:13.025 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:13.063 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:13.258 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:13.900 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:15.801 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:15.802 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:15.987 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:17.421 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:21.521 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:21.521 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:21.682 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:22.471 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:26.316 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:26.317 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:26.417 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:26.919 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:30.855 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:30.856 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:30.965 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:31.431 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:35.286 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:35.288 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:35.384 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:35.874 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:35:39.041 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:35:39.042 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:35:39.169 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:35:39.743 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:38:41.136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipce Workspace\OpenCartV1.0\testng.xml
+
+12:39:03.411 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:03.442 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:03.578 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:04.422 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:06.289 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:06.290 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:06.414 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:07.017 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:10.800 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:10.801 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:10.911 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:11.540 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:14.748 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:14.751 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:14.880 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:15.443 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:19.507 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:19.511 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:19.614 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:20.134 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:23.714 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:23.717 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:23.821 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:24.329 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:27.488 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****
+12:39:27.490 [main] INFO  testCase.TC0003_LoginDDT - Clicked on My Account...!
+12:39:27.594 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login Link...!
+12:39:28.258 [main] INFO  testCase.TC0003_LoginDDT - Clicked on Login...!
+12:39:31.589 [main] INFO  testCase.TC0003_LoginDDT - ***** Starting TC0002_accountLogin *****

@@ -121,6 +121,16 @@ public Properties p;
 		String randomnum = RandomStringUtils.randomNumeric(10);
 		return randomnum;
 	}
+
+/*@SuppressWarnings("deprecation")
+	public String randomnumber() {
+	    RandomStringGenerator generator = new RandomStringGenerator.Builder()
+	        .withinRange('0', '9')  // digits only
+	        .build();
+	    return generator.generate(10);  // generate 10-digit string
+	}
+	*/
+	
 	
 	public String captureScreenShot(String tname) throws IOException
 	{

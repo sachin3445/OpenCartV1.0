@@ -13,9 +13,9 @@ public class TC0003_LoginDDT extends baseClass
 {
 	// Geting data from dataprovider when dataprovider stored in different class
 	@Test(dataProvider = "loginData", dataProviderClass = DataProviders.class)
-	public void verify_loginDDT(String email, String pwd, String exp)
+	public void verify_loginDDT(String email, String pwd, String exp) throws InterruptedException
 	{
-		logger.info("***** Starting TC0002_accountLogin *****");
+		logger.info("***** TC0003_LoginDDT_accountLogin Started..*****");
 		
 		HomePage hp = new HomePage(driver);
 		
@@ -33,6 +33,7 @@ public class TC0003_LoginDDT extends baseClass
 		logger.info("Clicked on Login...!");
 		lp.clickButn_Login();
 		
+		logger.info("Validating user details...!");
 		//My Account page
 		MyAccountPage myacc = new MyAccountPage(driver);
 		boolean tragetPage = myacc.isMyAccountPageExist();
@@ -44,13 +45,11 @@ public class TC0003_LoginDDT extends baseClass
 			{
 				myacc.clickLogout();
 				Assert.assertTrue(true);
-				
 			}
 			else
 			{
 				Assert.assertTrue(false);
 			}
-	
 		}
 		
 		if(exp.equalsIgnoreCase("Invalid"))
@@ -59,14 +58,14 @@ public class TC0003_LoginDDT extends baseClass
 			{
 				myacc.clickLogout();
 				Assert.assertTrue(false);
-				
 			}
 			else
 			{
 				Assert.assertTrue(true);
 			}
 		}
-		
+		Thread.sleep(3000);
+		logger.info("***** TC0003_LoginDDT_accountLogin Finish *****");
 	}
 	
 	
